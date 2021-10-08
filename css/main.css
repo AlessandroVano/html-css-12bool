@@ -30,8 +30,14 @@ h2 {
     border: 1px solid blue
 }
 
-/* SECTION-2  */
+ /* SECTION-2  */
 
-.section-2 .box {
+ .section-2 .box {
     height: 33px;
 }
+
+/* SECTION-3  */
+
+.section-3 .box {
+    height: 33px;
+} 
