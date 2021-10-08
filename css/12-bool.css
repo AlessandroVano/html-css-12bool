@@ -26,8 +26,8 @@
 
 [class*="col-"] {
     flex: 0 0 auto;
-    padding-left: 15px;
-    padding-right: 15px;
+    /* padding-left: 15px;
+    padding-right: 15px; */
 }
 
 [class*="col-"].padding-0 {
